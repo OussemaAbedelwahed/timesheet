@@ -13,7 +13,8 @@ import javax.persistence.TemporalType;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 // hjsk
-
+// zizou
+//modification ligne 17
 @Entity
 public class Contrat implements Serializable {
 	
